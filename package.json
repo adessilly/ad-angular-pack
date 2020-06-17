@@ -1,0 +1,32 @@
+{
+    "name": "ad-angular-pack",
+    "icon": "icon.png",
+    "displayName": "ad-angular-pack",
+    "description": "Vscode Extension pack to develop in Angular",
+    "author": {
+        "name": "Adrien Dessilly"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "johnpapa.angular2",
+        "angular.ng-template",
+        "editorconfig.editorconfig",
+        "dbaeumer.vscode-eslint",
+        "msjsdiag.debugger-for-chrome",
+        "msjsdiag.debugger-for-edge",
+        "esbenp.prettier-vscode",
+        "eg2.vscode-npm-script",
+        "pkief.material-icon-theme",
+        "alexiv.vscode-angular2-files",
+        "natewallace.angular2-inline",
+        "eamodio.gitlens",
+        "christian-kohler.path-intellisense",
+        "ms-vscode.vscode-typescript-tslint-plugin"
+    ]
+}
