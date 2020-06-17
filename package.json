@@ -1,6 +1,7 @@
 {
     "name": "ad-angular-pack",
     "icon": "icon.png",
+    "publisher": "AdrienDessilly",
     "displayName": "ad-angular-pack",
     "description": "Vscode Extension pack to develop in Angular",
     "author": {
